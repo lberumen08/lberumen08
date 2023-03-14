@@ -1,4 +1,5 @@
 <h1>Hi, I'm Luis Berumen! <br/><a href="https://github.com/lberumen08">Junior Programmer</a>
+  <h3>I'm looking forward to joining an amazing company where I can grow and develop my skills while contributing to any project where I may be needed. Thank you in advance for taking the time to look over these projects but more importantly for taking the time in getting to know me.</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
